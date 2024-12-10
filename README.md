@@ -1,4 +1,4 @@
-Welcome to my deep learning repo!
+Welcome to my deep learning repo! Projects are from the course in deep learning (MT7042) given at Stockholm university fall 2024.
 
 **Useful links:**\
 Project 1:
