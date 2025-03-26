@@ -5,9 +5,9 @@ Project 4: attempt at using a denoising diffusion probabilistic model (DDPM) in 
 Click [here](https://github.com/aggelitoo/deep_learning/blob/master/project4/project4_report.pdf) for the report, or [here](https://github.com/aggelitoo/deep_learning/blob/master/project4/project4_presentation.pdf) for the presentation.
 
 **Useful links:**\
-Project 1:
+Project 1: on basic classification using fully connected feedforward neural net -->
 [jupyter notebook](https://github.com/aggelitoo/deep_learning/blob/master/project1/project1.ipynb)\
-Project 2:
+Project 2: on image classification using CNNs -->
 [jupyter notebook](https://github.com/aggelitoo/deep_learning/blob/master/project2/project2.ipynb)\
-Project 3:
+Project 3: on RNNs and LSTM -->
 [jupyter notebook](https://github.com/aggelitoo/deep_learning/blob/master/project3/project3.ipynb)
